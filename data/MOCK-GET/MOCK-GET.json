@@ -1,0 +1,1 @@
+{"id":1512973741801,"requestDecryptAndVerify":"","requestMethod":"POST,GET","requestParamTemplate":"name=&test=","requestUrl":"/test/mock3","responseCondition":[{"resCondition":"name == 'zf'","resValue":"{\"retCode\":\"201\"}"},{"resCondition":"test == 'hello'","resValue":"{\"retCode\":\"202\"}"},{"resCondition":"true","resValue":"{\"retCode\":\"201\"}"}],"responseEncrypt":""}
